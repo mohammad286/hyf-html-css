@@ -1,0 +1,42 @@
+h1 {
+  background-color:plum;
+  text-align:center;
+  border:3px solid   
+}
+body {
+  background-color:wheat;
+  font-family:cursive;
+}
+#Shakespeare {
+  text-decoration:underline;
+}
+.William {
+  float:left;
+  margin-right:10px;
+  border:2px solid maroon
+}
+.important{
+  font-size:25px;
+  font-style:italic;
+  color:teal;
+    
+}
+.table {
+  color:red;
+  line-height:30px;
+}
+table,th,td {
+  border:1px solid olive;
+  width:50em;
+  text-align:center;
+  
+}
+.add {
+  background-color:silver;
+  width:46%;
+  height:150px;
+  overflow:auto;
+  border:1px solid;
+  margin-left:6px
+}
+
